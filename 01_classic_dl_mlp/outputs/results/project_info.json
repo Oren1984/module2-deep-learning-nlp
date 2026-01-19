@@ -1,0 +1,8 @@
+{
+  "project": "01_classic_dl_mlp",
+  "dataset": "Fashion-MNIST",
+  "task": "Multi-class classification (10 classes)",
+  "input": "28x28 grayscale images",
+  "model": "MLP",
+  "device": "cpu"
+}

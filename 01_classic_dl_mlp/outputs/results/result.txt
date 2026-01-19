@@ -1,0 +1,13 @@
+Run time: 2026-01-19T14:46:26.020616
+Dataset: Fashion-MNIST
+Device: cpu
+Model: MLP | hidden1=256 hidden2=128 dropout=0.2 bn=True
+LR: 0.001 | epochs(max): 20 | early_stop_patience: 3
+Best Val Acc: 0.8957
+Test Acc: 0.8929
+Saved figures:
+- outputs/figures/sample_grid.png
+- outputs/figures/class_distribution.png
+- outputs/figures/loss_curves.png
+- outputs/figures/acc_curves.png
+- outputs/figures/confusion_matrix.png

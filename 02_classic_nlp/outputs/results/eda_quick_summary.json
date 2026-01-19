@@ -1,0 +1,9 @@
+{
+  "rows":5572.0,
+  "spam_rate":0.134063173,
+  "avg_len_chars":80.1188083274,
+  "avg_len_words":15.4944364681,
+  "median_len_words":12.0,
+  "ham_rows":4825.0,
+  "spam_rows":747.0
+}
