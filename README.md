@@ -5,7 +5,7 @@ built with a clean, professional repository layout and a unified project templat
 
 ---
 
-## 🎯 What is this repository?
+## What is this repository?
 
 This repository contains **three focused projects** that together form a complete learning path for  
 **Deep Learning & Natural Language Processing**, from fundamentals to a realistic hybrid setup.
