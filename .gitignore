@@ -53,11 +53,6 @@ dist/
 # =========================
 .env
 
-# =========================
-# Hide module source code (presentation repo)
-# =========================
-03_hybrid_dl_nlp/src/*
-!03_hybrid_dl_nlp/src/.gitkeep
 
 # =========================
 # Outputs
